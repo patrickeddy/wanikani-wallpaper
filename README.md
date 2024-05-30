@@ -2,7 +2,7 @@
 
 Cause it's cool to burn turtles while you surf.
 
-<video src="WanikaniWallpaperPreview.mov" width="500"></video>
+https://github.com/patrickeddy/wanikani-wallpaper/assets/4722077/4f1c9e3d-cbb6-4f69-b096-3eacb1cd37ec
 
 ## Setup
 
