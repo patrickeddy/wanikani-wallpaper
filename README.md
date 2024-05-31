@@ -4,6 +4,8 @@ Cause it's cool to burn turtles while you surf.
 
 https://github.com/patrickeddy/wanikani-wallpaper/assets/4722077/4f1c9e3d-cbb6-4f69-b096-3eacb1cd37ec
 
+This project uses the new oh-so-cool [`unofficial-wanikani` package](https://github.com/patrickeddy/unofficial-wanikani).
+
 ## Setup
 
 1. Create a new API key [here](https://www.wanikani.com/settings/personal_access_tokens).
